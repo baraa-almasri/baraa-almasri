@@ -6,5 +6,6 @@
 </p>
 
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraa-almasri&show_icons=true&locale=en" alt="baraa-almasri" />
-</p>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraa-almasri&layout=compact" alt="baraa-almasri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baraa-almasri&show_icons=true&locale=en" alt="baraa-almasri">
+</p>
