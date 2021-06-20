@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraa-almasri&layout=compact" alt="baraa-almasri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baraa-almasri&show_icons=true&locale=en" alt="baraa-almasri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaraa&layout=compact" alt="shorts.ninja/d697c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbaraa&show_icons=true&locale=en" alt="shorts.ninja/d697c">
 </p>
